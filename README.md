@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/73837e88-5f03-47e6-9a1e-30ebee72f984" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/35f9e0cd-fba5-4783-aa9a-173f8aff56ea" />
 </div>
 
 # 👋 Hi, I'm Mohd Hassan.
