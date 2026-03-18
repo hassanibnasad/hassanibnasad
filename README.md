@@ -4,58 +4,43 @@
 
 # 👋 Hi, I'm Mohd Hassan.
 
-### *I don't just fix problems; I write scripts to solve them forever.* 🛠️
-
-I am a **Technical Operations** and **Automation Enthusiast** who loves building tools to streamline support workflows. While others manually handle repetitive tasks, I use **Python** and **SQL** to automate them.
-
-I bridge the gap between **Support Teams** and **Engineering** by building custom dashboards, ticketing automation tools, and data reporting scripts.
+### *Software Engineer | Backend Systems & AI Integrations* I build scalable backend architecture, robust RESTful APIs, and integrate modern Artificial Intelligence into production applications. My focus is on writing clean, efficient code that automates complex processes and solves data-driven challenges.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Core Focus Areas
 
-* **Operations Automation:** Writing Python scripts to parse logs, process files, and automate data entry.
-* **Support Tooling:** Building internal tools (like my *GenAI Ticketing System*) to help support agents work faster.
-* **Data Analysis:** Using SQL to query databases and find the root cause of "payment failures" or "system errors."
+* **Backend Engineering:** Designing server-side logic and API infrastructure using Python and Flask.
+* **AI & Automation:** Developing and deploying Generative AI applications, including RAG architecture.
+* **Database Architecture:** Writing optimized SQL queries and managing relational data flow.
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category | Tools & Skills |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Scripting & Automation), SQL (MySQL/PostgreSQL), Bash |
-| **Automation** | Flask, REST APIs, Regex, Selenium, Streamlit |
-| **Operations** | Linux (Basic CLI & Log Analysis), JSON/XML Parsing |
-| **Tools** | Git/GitHub, Postman (API Testing), VS Code, Excel |
+| **Languages** | Python, SQL, Bash |
+| **Backend** | Flask, REST APIs, JSON/XML |
+| **AI Integration** | GenAI, RAG Architecture, Prompt Engineering |
+| **Tools** | Git/GitHub, Postman, Linux CLI |
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Work
 
-### 1. [Automated Customer Support & Ticketing System](https://github.com/hassanibnasad/customer_support_and_ticketing_system)
-* **The Problem:** Support teams waste hours manually tagging tickets.
-* **My Solution:** A full-stack tool that uses **Regex** for instant L1 fixes and **GenAI (Gemini)** to auto-route complex tickets.
-* **Tech:** Python, Flask, SQL, API Integration.
+### [GenAI RAG Chatbot](Link to repo if public)
+* **Overview:** A production-ready support chatbot utilizing Retrieval-Augmented Generation (RAG) to automate data retrieval.
 
-### 2. [Automated Business Reporting Dashboard](https://github.com/hassanibnasad/Automated_Business_Operations_Reporting_System)
-* **The Problem:** Manually checking database health is slow and error-prone.
-* **My Solution:** An automated SQL reporting tool that flags "Payment Failures" > 5% and emails daily summaries.
-* **Tech:** Python, SQL, SQLite.
+### [Automated Support & Ticketing System](https://github.com/hassanibnasad/customer_support_and_ticketing_system)
+* **Overview:** A full-stack internal tool that reduces manual routing time through backend logic and API integration.
 
----
-
-## ⚡ Fun Fact
-
-I treat my code like my **MMA training** 🥊 — disciplined, efficient, and focused on execution. I believe in "Heavy Lifting" in the gym, and "Heavy Automation" at work.
+### [Business Operations Dashboard](https://github.com/hassanibnasad/Automated_Business_Operations_Reporting_System)
+* **Overview:** An automated SQL reporting system that monitors database health and triggers data anomaly alerts.
 
 ---
 
 ## 📫 Let's Connect
-
 * [LinkedIn](https://www.linkedin.com/in/mohd-hassan-7334b91b4)
 * 📧 mohdhassanibnasad@gmail.com
 * [Portfolio Website](https://hassanibnasad.github.io/portfolio/)
-
----
-*"The goal of support isn't just to fix the bug, it's to fix the process."*
