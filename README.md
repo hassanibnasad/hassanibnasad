@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohd Hassan.
 
-### *Software Engineer | Backend Systems & AI Integrations* I build scalable backend architecture, robust RESTful APIs, and integrate modern Artificial Intelligence into production applications. My focus is on writing clean, efficient code that automates complex processes and solves data-driven challenges.
+### *Software Engineer | Systems & AI Integrations* I build scalable architecture and integrate modern Artificial Intelligence into production applications. My focus is on writing clean, efficient code that automates complex processes and solves data-driven challenges.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🏆 Featured Work
 
-### [GenAI RAG Chatbot](Link to repo if public)
+### GenAI RAG Chatbot
 * **Overview:** A production-ready support chatbot utilizing Retrieval-Augmented Generation (RAG) to automate data retrieval.
 
 ### [Automated Support & Ticketing System](https://github.com/hassanibnasad/customer_support_and_ticketing_system)
